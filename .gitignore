@@ -12,8 +12,11 @@ yarn-error.log*
 # Env files
 .env
 *.env
+.env.*
 server/.env
+server/.env.*
 react/.env
+react/.env.*
 
 # Editor & tooling
 .vscode/
