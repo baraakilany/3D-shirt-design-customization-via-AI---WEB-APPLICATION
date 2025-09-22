@@ -86,8 +86,6 @@ Export or save the final design (image file / mockup).
 🔍 What’s Missing / To Be Improved
 Here are some areas that may need additional work or clarification:
 
-Explicit instructions in code & environment config (README currently lacks details).
-
 Details about which AI model(s) are used, how they are integrated (local vs. cloud).
 
 Handling performance / latency for design generation.
